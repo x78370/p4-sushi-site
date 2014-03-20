@@ -1,0 +1,35 @@
+li {
+	font-family: 'Gafata', sans-serif;
+	list-style: none;
+}
+
+
+body {
+font-family: 'Gafata', sans-serif;
+	background-color: #424242;
+	background: url('../img/ricepaper.png') repeat;
+	
+}
+
+
+.pics  {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#gmap {
+	height: 350px;
+	
+}
+.price {
+	font-style: italic;
+}
+.title {
+	font-weight: bold;
+	color: #000000 !important;
+}
+.spicy {
+	color: #CF1D1D;
+}
+.raw {
+	color: #96CF1D;
+}
